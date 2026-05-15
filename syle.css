@@ -1,0 +1,78 @@
+.Mafia {
+    background-color: green;
+    width: 250px;
+    border: 5px solid red;
+}
+
+.Mafia-title {
+    color: blue;
+    text-align: center;
+}
+
+.Mafia-image {
+    width: 250px;
+}
+
+
+.Sherif {
+    background-color: greenyellow;
+    width: 250px;
+    border: 5px solid blue;
+}
+
+.Sherif-title {
+    color: yellow;
+    text-align: center;
+}
+
+.Sherif-image {
+    width: 250px;
+}
+
+
+.Doktor{
+    background-color: greenyellow;
+    width: 250px;
+    border: 5px solid red;
+}
+
+.Doktor-title {
+    color: blue;
+    text-align: center;
+}
+
+.Doktor-image {
+    width: 250px;
+}
+
+
+.Detektiv {
+    background-color: brown;
+    width: 250px;
+    border: 5px solid red;
+}
+
+.Detektiv-title {
+    color: blue;
+    text-align: center;
+}
+
+.Detektiv-image {
+    width: 250px;
+}
+
+
+.Sudya {
+    background-color: greenyellow;
+    width: 250px;
+    border: 5px solid ;
+}
+
+.Sudya-title {
+    color: blueviolet;
+    text-align: center;
+}
+
+.Sudya-image {
+    width: 250px;
+}
